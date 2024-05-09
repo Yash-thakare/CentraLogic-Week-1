@@ -1,0 +1,14 @@
+2. Are there any other fittp methods? POST, PUT, PATCH, DELETE?
+
+re there any other fittp methods? POST, PUT, PATCH, DELETE
+3. Why TypeScript is preferred in Bank Industry over Traditional Javascript?
+4. If there's already npm init, then why tscinit?
+5. How to check Ul is calling which API on deployed screen?
+6. Why tsconfig was edited in first session, Isn't it possible to run your code without changing tsconfig?
+7.diffferences between auto generatec o der tsconfig and newer tsconfig) 7. After npm run build, a dist folder is generated, What difference it make: What is contained in the cist folder?
+8.In notes section, you saw someting like /datatype, What it is? Significance of routes. How can you check. from in screens on deployed portals?
+9.Do you need to everytime bulid the project before running, Any other alternative?
+10.Why added scripts in package.json, Can it not work if we dont acd scripts (Check notes section)?
+11. My Postgres is running on local port 8000, will the (notes section) api run?
+12. Is Express only framework for creating server, Was NodeJS alone not sufficient?
+
